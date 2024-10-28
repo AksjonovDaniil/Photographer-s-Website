@@ -27,7 +27,7 @@ A simple photographer's portfolio website that allows users to browse the galler
 
 1. Clone the repository (or download the files manually):
    ```bash
-   git clone https://github.com/your-repo/photographer-website.git
+   git clone https://github.com/AksjonovDaniil/photographer-website.git
 2. Move the project folder to your XAMPP's htdocs folder (or the root folder of your web server):
    C:\xampp\htdocs\Photographer
 3. Start Apache and MySQL from XAMPP control panel.
